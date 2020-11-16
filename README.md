@@ -27,3 +27,7 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1004 Produto Simples**
 
 **Solução:** [1004](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1004)
+
+**#1005 Média 1**
+
+**Solução:** [1005](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1005)
