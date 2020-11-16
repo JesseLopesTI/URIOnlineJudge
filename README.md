@@ -19,3 +19,7 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1002 Área do Círculo**
 
 **Solução:** [1002](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1002)
+
+**#1003 Soma Simples**
+
+**Solução:** [1003](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1003)
