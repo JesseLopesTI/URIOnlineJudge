@@ -15,3 +15,7 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1001 Extremamente Básico**
 
 **Solução:** [1001](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1001)
+
+**#1002 Área do Círculo**
+
+**Solução:** [1002](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1002)
