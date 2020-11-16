@@ -23,3 +23,7 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1003 Soma Simples**
 
 **Solução:** [1003](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1003)
+
+**#1004 Produto Simples**
+
+**Solução:** [1004](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1004)
