@@ -31,3 +31,15 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1005 Média 1**
 
 **Solução:** [1005](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1005)
+
+**#1006 Média 2**
+
+**Solução:** [1006](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1006)
+
+**#1007 Diferença**
+
+**Solução:** [1007](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1007)
+
+**#1008 Salário**
+
+**Solução:** [1008](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1008)
