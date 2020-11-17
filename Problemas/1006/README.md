@@ -14,11 +14,11 @@ problemas, não esqueça de imprimir o fim de linha após o resultado, caso cont
 
 **Exemplos de entrada:**
 
-5.0
+5.0, 6.0, 7.0
 
-6.0
+5.0, 10.0, 10.0
 
-7.0
+10.0, 10.0, 5.0
 
 **Exemplos de saída:**
 
