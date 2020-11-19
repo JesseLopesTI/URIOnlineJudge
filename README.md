@@ -44,18 +44,18 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 
 **Solução:** [1008](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1008)
 
-**#1009 Salário**
+**#1009 Salário com Bônus**
 
 **Solução:** [1009](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1009)
 
-**#1010 Salário**
+**#1010 Cálculo Simples**
 
 **Solução:** [1010](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1010)
 
-**#1011 Salário**
+**#1011 Esfera**
 
 **Solução:** [1011](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1011)
 
-**#1012 Salário**
+**#1012 Área**
 
 **Solução:** [1012](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1012)
