@@ -59,3 +59,7 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1012 Área**
 
 **Solução:** [1012](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1012)
+
+**#1013 O Maior**
+
+**Solução:** [1013](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1013)
