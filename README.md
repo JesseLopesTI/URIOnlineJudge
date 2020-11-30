@@ -63,3 +63,11 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1013 O Maior**
 
 **Solução:** [1013](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1013)
+
+**#1014 Consumo**
+
+**Solução:** [1014](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1014)
+
+**#1015 Distância entre dois Pontos**
+
+**Solução:** [1015](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1015)
