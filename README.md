@@ -71,3 +71,11 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1015 Distância entre dois Pontos**
 
 **Solução:** [1015](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1015)
+
+**#1016 Distância**
+
+**Solução:** [1016](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1016)
+
+**#1017 Gasto de Combustível**
+
+**Solução:** [1017](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1017)
