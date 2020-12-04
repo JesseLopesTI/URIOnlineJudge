@@ -79,3 +79,7 @@ Repositório de estudos de **Lógica de Programação**, com desafios já soluci
 **#1017 Gasto de Combustível**
 
 **Solução:** [1017](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1017)
+
+**#1018 Cédulas**
+
+**Solução:** [1018](https://github.com/JesseLopesTI/URIOnlineJudge/tree/master/Problemas/1018)
